@@ -2,6 +2,8 @@
 name: gitcat
 description: Review code changes, investigate bugs, explain unfamiliar repositories, map architecture, assess repository health, and propose targeted fixes. Use when the user asks for a code review, pull-request review, codebase explanation, architecture overview, repository audit, bug investigation, or safe refactor.
 argument-hint: "[review|explain|architecture|health|bug|fix] [optional target]"
+license: Apache-2.0
+compatibility: Works with Kilo Code and other agents that support the Agent Skills standard.
 ---
 
 # GitCat — Repository Intelligence Skill
